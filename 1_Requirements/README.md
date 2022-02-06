@@ -25,3 +25,12 @@ The objective function uses a novel image comparison technique that allows compa
 ### Strength
 
 International Efficiency (IE) is a new trend around the world in describing the energy efficiency of motors. The IE classes IE1 and IE2 are well developed, while the IE4 is under preparation. The classification method allows for further improvement in the energy efficiency of motors.
+
+### Weakness
+
+Very little accurate and to-the point availability of research/data makes it difficult to proceed.
+
+### Opportunities
+
+According to the International Energy Agency (IEA), electric motors account for 40% of total global electricity consumption, far more than lighting, a far better-known culprit, which weighs in at just 19%. Industry is another major global energy consumer and the electric motors used in industrial plants typically consume 65 to 80% of total plant electricity. 
+In the last few years, new efficiency requirements for induction motors have been imposed. Therefore electrical machines manufacturers have had to redefine the design criteria in order to reduce losses aiming to achieve the efficiency values established by the IE2 and IE3 standard categories according to the IEC. Given that, in the near future, an increasing demand regarding efficiency (IE4 and IE5 categories) is expected, it would be appropriate to seek new alternatives to further reduce losses in induction motors.
