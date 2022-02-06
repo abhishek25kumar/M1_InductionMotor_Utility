@@ -19,3 +19,8 @@ This project also uses ultra-fast finite element analysis by applying magneto-st
 reducing the computational requirements using Altair flux.
 The torque-speed-efficiency map is calculated by applying a direct-quadrature electrical model.
 The objective function uses a novel image comparison technique that allows comparing the similarity between the objective and optimized maps. 
+
+## SWOT Analysis
+
+### Strength
+
