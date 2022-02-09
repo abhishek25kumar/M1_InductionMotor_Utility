@@ -16,13 +16,10 @@ int main()
     float L;
     
     scanf("%f %f %f %f %f", &power, &phase, &pole, &volts, &f);
-    
-    
+   
     KVA_Input = power/(efficiency*power_factor);
     
     ns = (2*f)/pole;
-    
-
     
     D = ((0.0054*pole)/3.14);
     
