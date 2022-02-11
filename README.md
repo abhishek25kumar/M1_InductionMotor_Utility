@@ -5,6 +5,9 @@ The main objective of the project work is to design and optimize suitable motor 
 A basic calculation is done for calculating diameter and length of the induction machine and also subsequently calculating the speed of the machine as well.
 This project helps in bridging the time taken to calculate the dimensions manually and brings a new innovative idea among the colleagues as well.
 
+## PDLC Activity Based Learning
+
+
 
 #### Folder Structure
 Folder             | Description
