@@ -8,7 +8,7 @@ This project helps in bridging the time taken to calculate the dimensions manual
 ## PDLC Activity Based Learning
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/3b341315872940b5b04c3c8cdcb155ce)](https://www.codacy.com/gh/abhishek25kumar/M1_InductionMotor_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=abhishek25kumar/M1_InductionMotor_Utility&amp;utm_campaign=Badge_Grade)
 
-![Code grade](https://api.codiga.io/project/31079/score/svg)
+![Code grade](https://api.codiga.io/project/31079/score/svg)      ![Code grade](https://api.codiga.io/project/31079/status/svg)
 #### Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
