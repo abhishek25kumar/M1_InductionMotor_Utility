@@ -1,4 +1,10 @@
 # Behaviour Diagram
+## Flow Diagram
+
+![Capture](https://user-images.githubusercontent.com/98945487/156627367-12631774-1473-4b64-914d-22c06570c1d2.JPG)
+
+
+
 
 ## FlowChart
 
