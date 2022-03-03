@@ -46,6 +46,9 @@ In the last few years, new efficiency requirements for induction motors have bee
 Over-loading, single phasing, unbalanced supply voltage, locked rotor, phase reversal, ground faults, and under/over voltage are some of the threats that a designer might face while implementing all the calculations and data into the software.
 
 # Behaviour Diagram
+## Flow Diagram
+![Capture](https://user-images.githubusercontent.com/98945487/156634266-b026f83e-0101-44dd-b710-41ae0eddb77f.JPG)
+
 
 ## FlowChart
 
