@@ -47,3 +47,9 @@ Over-loading, single phasing, unbalanced supply voltage, locked rotor, phase rev
 |HLR03|It shall take user input indiscriminately|technical|
 
 
+## LOW LEVEL REQUIREMENTS
+| ID | Description | Category | 
+| ----- | ----- | ------- |
+|LLR01|It shall intake valid values for calculation|technical|  
+|LLR02|It shall take valid values for calculation|technical|
+|LLR03|It shall be available wtih better user interface|technical|
