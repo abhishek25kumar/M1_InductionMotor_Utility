@@ -25,7 +25,7 @@ The objective function uses a novel image comparison technique that allows compa
 ### Strength
 
 International Efficiency (IE) is a new trend around the world in describing the energy efficiency of motors. The IE classes IE1 and IE2 are well developed, while the IE4 is under preparation. The classification method allows for further improvement in the energy efficiency of motors.
-
+The main stremgth of this project is to gain the maximum output from a limited input, this project provides data that are very much useful for machine designing.
 ### Weakness
 
 Very little accurate and to-the point availability of research/data makes it difficult to proceed.
