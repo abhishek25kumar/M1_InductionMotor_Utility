@@ -27,3 +27,38 @@ As a first step, initial readings are taken of the standard motor to have base p
 |LLR02|It shall take valid values for calculation|technical|
 |LLR03|It shall be available wtih better user interface|technical|
 
+
+## Test Plan Input
+
+1) Number of phases=
+3
+
+2) Power in KW=
+11
+
+3) Voltage in volts=
+400
+
+4) Frequency on hz=
+50
+
+5) Number of poles=
+4
+
+6) Bav in Wb/m2=
+0.45
+
+7) ac in a/m=
+20000
+
+8) Winding factor=
+0.955
+
+9) Power facot=
+0.9
+
+10) eff of m/c=
+0.916
+
+11) iron factor=
+1.5
