@@ -50,6 +50,6 @@ Over-loading, single phasing, unbalanced supply voltage, locked rotor, phase rev
 ## LOW LEVEL REQUIREMENTS
 | ID | Description | Category | 
 | ----- | ----- | ------- |
-|LLR01|It shall intake valid values for calculation|technical|  
-|LLR02|It shall take valid values for calculation|technical|
+|LLR01|It shall take valid values for calculation|technical|  
+|LLR02|It shall calculate the provided data with utmost precision|technical|
 |LLR03|It shall be available wtih better user interface|technical|
