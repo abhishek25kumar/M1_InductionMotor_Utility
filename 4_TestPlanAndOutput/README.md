@@ -62,3 +62,10 @@ As a first step, initial readings are taken of the standard motor to have base p
 
 11) iron factor=
 1.5
+
+
+## Test Plan Output
+
+ THE DIAMETER OF THE INDUCTION MOTOR = x mtr 
+
+ THE NET LENGTH OF THE INDUCTION MOTOR = y mtr
