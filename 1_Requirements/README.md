@@ -46,7 +46,6 @@ Over-loading, single phasing, unbalanced supply voltage, locked rotor, phase rev
 |HLR02|It shall calculate the stator length|technical|
 |HLR03|It shall take user input indiscriminately|technical|
 
-
 ## LOW LEVEL REQUIREMENTS
 | ID | Description | Category | 
 | ----- | ----- | ------- |
