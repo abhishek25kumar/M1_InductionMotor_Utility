@@ -5,7 +5,7 @@ A standard 11 kW, 4-pole, 415 Y, 50Hz, 3 phase squirrel cage induction motor was
 
 
 
-## HIGH LEVEL REQUIREMENTS
+## High Level Requirements
 | ID | Description | Category | 
 | ----- | ----- | ------- | 
 |HLR01|It shall calculate the stator diameter|technical|  
@@ -20,7 +20,7 @@ As a first step, initial readings are taken of the standard motor to have base p
 
 
 
-## LOW LEVEL REQUIREMENTS
+## Low Level Requirements
 | ID | Description | Category | 
 | ----- | ----- | ------- |
 |LLR01|It shall intake valid values for calculation|technical|  
