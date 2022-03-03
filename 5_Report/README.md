@@ -45,13 +45,13 @@ In the last few years, new efficiency requirements for induction motors have bee
 
 Over-loading, single phasing, unbalanced supply voltage, locked rotor, phase reversal, ground faults, and under/over voltage are some of the threats that a designer might face while implementing all the calculations and data into the software.
 
-# HIGH LEVEL REQUIREMENTS
+## High Level Requirements
 | ID | Description | Category | 
 | ----- | ----- | ------- | 
 |HLR01|It shall calculate the stator diameter|technical|  
 |HLR02|It shall calculate the stator length|technical|
 |HLR03|It shall take user input indiscriminately|technical|
-# LOW LEVEL REQUIREMENTS
+## Low Level Requirements
 | ID | Description | Category | 
 | ----- | ----- | ------- |
 |LLR01|It shall take valid values for calculation|technical|  
