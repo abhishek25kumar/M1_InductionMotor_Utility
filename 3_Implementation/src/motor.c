@@ -3,8 +3,8 @@ int main()
 {
 	int ph,po,ns;
 	
-	double p,v,f,bav,q,kw,pf,eff,iron,qs,currentdensity,d1,sf,B,dcd,h,lip,wedge,Ns,Co,Q,L,D,pp,Li,pspeed,flux,Tp,ss,yss,sp,sc,zss,alpha,kp,kd,kws,Is,IsL,A,density,S,As,wts,Lmts,Bmst,fluxstator,Asc,dcs,dss,Do, le3;
-	int as, Db, cs;
+	double p,v,f,bav,q,kw,pf,eff,iron,qs,currentdensity,d1,sf,B,dcd,h,lip,wedge,Ns,Co,Q,L,D,pp,Li,pspeed,flux,Tp,ss,yss,sp,sc,zss,alpha,kp,kd,Is,IsL,A,density,S,As,wts,Lmts,Bmst,fluxstator,Asc,dcs,dss,Do, le3;
+	int as, Db, cs,kws;
 	
 	printf("INPUT THE SPECIATIONS OF THE INDUCTION MOTOR\n");
 	
@@ -110,7 +110,7 @@ int main()
 	
 	printf("\n THE STATOR TURNS PER POLE OF THE INDUCTION MOTOR=%.4f TURNS \n",Tp);
 	
-	printf("\n THE STATOR WINDING FACTOR OF THE INDUCTION MOTOR=%.4f \n ",kws);
+	printf("\n THE STATOR WINDING FACTOR OF THE INDUCTION MOTOR=%d \n ",kws);
 	
 	printf("\n THE STATOR CURRENT OF THE INDUCTION MOTOR=%.4f AMPS \n",Is);
 	
